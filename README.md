@@ -54,8 +54,10 @@ SELECT
     SUM(Previous_Defaults) AS Total_Previous_Defaults,
     AVG(Marital_Status_Change) AS Avg_Marital_Status_Change,
     AVG(Risk_Rating) AS Avg_Risk_Rating
+
 FROM
     financial_data
+
 GROUP BY
     Age,
     Gender,
@@ -67,6 +69,7 @@ GROUP BY
     City,
     State,
     Country
+
 ORDER BY
     Age, Gender, Education_Level, Marital_Status;
 
