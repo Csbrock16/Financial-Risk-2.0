@@ -11,8 +11,6 @@ Financial Risk Assessment: The primary dataset used for this analysis is the "fi
 ### Tools
 
 - Excel - Dashboarding
-- SQL Server - Data Analysis
-- Tableau - Visualization
 
 ### Data Preparation
 
@@ -75,7 +73,7 @@ ORDER BY
 
 ### Results/Findings 
 Figured Out: 
-  - the failure, how to succeed, and where the business is vulnerable.
-  - each risk to determine how likely it is to happen.
-  - how much the risk would impact the business if it occurred.
-  - what steps can the business take to recover?  
+  - The failure, how to succeed, and where the business is vulnerable.
+  - Each risk to determine how likely it is to happen.
+  - How much the risk would impact the business if it occurred.
+  - What steps can the business take to recover?  
